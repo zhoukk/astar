@@ -1,6 +1,6 @@
 /**
  * author: zhoukk
- * link: gist.github.com/zhoukk/f5366ce217e614b60ea4
+ * link: https://github.com/zhoukk/astar/blob/master/heap.h
  *
  * MinHeap or MaxHeap
  *
